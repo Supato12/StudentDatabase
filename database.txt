@@ -1,0 +1,6 @@
+1 asd asd 3
+2 asdg asdg 2.5
+3 Sulka koksowanie 5
+4 Sulka c++ 5
+5 Miszczu c++ 4
+6 dominik szkolenie 5
