@@ -13,7 +13,7 @@ If your database is quite large you can use search module by ID, surname, facult
 </br>
 ID for each student is unique, so f.e if you have three records and delete the third one, the next student you add wil not have ID = 3 but = 4.</br>
 
-Example of structure of the loaded file is in the repository but if you wish to create urself one without downloading whole repository make sure to:</br>
+Example of structure of the loaded file is in the repository but if you wish to create urself one without downloading whole repository make sure to
 stick to the following structure: </br>
 ID(spacebar)Surname(spacebar)Faculty(spacebar)AverageMark</br>
 f.e </br>
